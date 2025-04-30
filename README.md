@@ -1,0 +1,1 @@
+# gal-hotel-compras-npm
